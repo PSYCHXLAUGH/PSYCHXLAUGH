@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wizemiller&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **PSYCHXLAUGH/PSYCHXLAUGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
