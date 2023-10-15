@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wizemiller&theme=dark)
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/psychxlaugh/badges/large)
 <!--
 **PSYCHXLAUGH/PSYCHXLAUGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
