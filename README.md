@@ -2,17 +2,18 @@
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wizemiller&theme=dark)
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/psychxlaugh/badges/large)
-<!--
-**PSYCHXLAUGH/PSYCHXLAUGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ⚙️ GitHub statistics:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=PSYCHXLAUGH&theme=dark&background=000000" alt="gitHub_statistics"/>
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PSYCHXLAUGH&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PSYCHXLAUGH)
