@@ -1,10 +1,3 @@
-### Hi there 👋
-![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=wizemiller&theme=dark)
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/psychxlaugh/badges/large)
-
-### ⚙️ GitHub statistics:
-
 <table>
   <tr>
     <td>
@@ -15,5 +8,3 @@
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PSYCHXLAUGH)
